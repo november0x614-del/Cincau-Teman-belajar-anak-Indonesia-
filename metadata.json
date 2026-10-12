@@ -1,0 +1,6 @@
+{
+  "name": "CINCAU",
+  "description": "Teman Belajar Interaktif & Tamagotchi Jeli untuk Anak SD — Rayakan kemajuan belajarmu bersama Cincau!",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
